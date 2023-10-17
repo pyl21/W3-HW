@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    font-family: sans-serif, Arial;
   }
 
   .bkgd {
@@ -191,13 +190,12 @@
     border-radius: 3px;
     background: #778A50;
     margin-top: 117px;
-    /*padding: 21px 558px 21px 569px;
-    top: 964px;*/
   }
 
   footer p {
     color:#EDF2C5;
     font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 400;
     line-height: 18px;
     text-align:center;
